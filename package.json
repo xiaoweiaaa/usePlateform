@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "oliver",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoweiaaa/usePlateform.git"
+  },
+  "keywords": [
+    "plateform",
+    "recognition",
+    "web"
+  ],
+  "bugs": {
+    "url": "https://github.com/xiaoweiaaa/usePlateform/issues"
+  },
+  "homepage": "https://github.com/xiaoweiaaa/usePlateform#readme"
 }
