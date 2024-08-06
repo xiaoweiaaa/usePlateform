@@ -1,6 +1,6 @@
 {
   "name": "useplateform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to get which platform it is running on",
   "main": "index.js",
   "scripts": {
